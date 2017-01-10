@@ -1,0 +1,55 @@
+body,td,th {
+	font-family: Courier New, Courier, monospace;
+	font-size:13px;
+}
+h5{
+	font-family:Courier New, Courier, monospace;
+	font-size:15px;
+	border-bottom:0px;
+	border-spacing:0px;
+}
+h4{
+	font-family: Courier New, Courier, monospace;
+	font-size:10px;;
+	font-size-adjust:inherit;
+}
+body{
+	margin:0px auto 0px;
+	padding:5px;
+	font-size:13px;
+	color:#333;
+	width:95%;
+	background-position:top;
+	background-color:#fff;
+}
+.table {
+	clear: both;
+	border-bottom:dashed;
+	background:#fff;
+	bottom:3px;	
+}
+.table td {
+	color: #333;
+	font-size:14px;
+	border-color: #fff;
+	border-collapse:separate;
+	vertical-align: center;
+	padding: 0px 0px;
+}
+.table-list {
+	clear: both;
+	text-align: left;
+	border-collapse: collapse;
+	margin: 0px 0px 10px 0px;
+	background:#fff;	
+}
+.table-list td {
+	color: #333;
+	font-size:14px;
+	border-color: #fff;
+	border-collapse: collapse;
+	vertical-align: center;
+	padding: 3px 5px;
+	border-bottom:1px #CCCCCC solid;
+}
+-->
